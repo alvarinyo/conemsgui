@@ -3,6 +3,7 @@
     fmt/6.2.1
     imgui/1.85
     sdl/2.0.16
+    glew/2.2.0 
 
 [generators]
     virtualenv
